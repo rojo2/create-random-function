@@ -1,6 +1,6 @@
 {
   "name": "@rojo2/create-random-function",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/create-random-function.cjs.js",
   "module": "dist/create-random-function.esm.js",
   "browser": "dist/create-random-function.udm.js",
