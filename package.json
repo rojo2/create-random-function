@@ -1,9 +1,9 @@
 {
   "name": "@rojo2/create-random-function",
-  "version": "1.0.0",
-  "main": "dist/create-random-function.js",
-  "module": "dist/create-random-function.js",
-  "browser": "dist/create-random-function.js",
+  "version": "1.0.1",
+  "main": "dist/create-random-function.cjs.js",
+  "module": "dist/create-random-function.esm.js",
+  "browser": "dist/create-random-function.udm.js",
   "directories": {
     "test": "test"
   },
